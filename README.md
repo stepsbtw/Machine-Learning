@@ -96,6 +96,10 @@ Breakdown
 - Feature Importance, Data Leakage
 
 ### Ensemble Models
+- Bagging
+- Boosting
+- Stacking
+
 
 ## Deep Learning
 - Tensors and Pytorch
